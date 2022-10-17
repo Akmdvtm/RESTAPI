@@ -1,4 +1,4 @@
-package todo_app
+package restapi
 
 import (
 	"context"
